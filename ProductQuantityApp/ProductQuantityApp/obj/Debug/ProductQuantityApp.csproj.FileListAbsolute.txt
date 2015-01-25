@@ -1,0 +1,18 @@
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe.config
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csprojResolveAssemblyReference.cache
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.Properties.Resources.resources
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.Form1.resources
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csproj.GenerateResource.Cache
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.pdb
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.exe
+F:\14-01-2015\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.pdb
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe.config
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.exe
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.pdb
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.pdb
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csprojResolveAssemblyReference.cache
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.Properties.Resources.resources
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.Form1.resources
+F:\Other'S\New folder\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csproj.GenerateResource.Cache

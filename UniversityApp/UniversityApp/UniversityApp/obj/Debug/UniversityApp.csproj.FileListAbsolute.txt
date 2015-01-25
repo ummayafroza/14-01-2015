@@ -1,0 +1,27 @@
+E:\Nerd Castle\OOP 51st Batch\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEnrollmentUI.resources
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEntryUI.resources
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.DepartmentEntryUI.resources
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntryUI.resources
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+E:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MainUI.resources
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEnrollmentUI.resources
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEntryUI.resources
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.DepartmentEntryUI.resources
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MainUI.resources
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntryUI.resources
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+F:\14-01-2015\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
